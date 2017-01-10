@@ -1,0 +1,15 @@
+# IDE IGNORES
+.tmp
+.idea
+nbproject
+
+# ALL HIDDEN FILES
+.*
+!.gitignore
+
+# NPM
+npm-debug.log
+
+# APP IGNORES
+node_modules
+bower_components

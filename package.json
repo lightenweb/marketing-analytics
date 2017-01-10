@@ -1,0 +1,27 @@
+{
+  "name": "dream-smilez",
+  "version": "1.0.0",
+  "description": "We are a Dental Clinic based in Bangalore, India. Dream Smilez Dental Clinic is a new sister addition to our first branch, Prakruthi Dental Clinic, which is over 14 years old and 5000+ patients strong. Our new clinic is in an upmarket location, and is fitted with world class equipment and amenities. We want our website to reflect the time-tested trust established by Prakruthi Dental Clinic, and the modern, efficient and state of the art services provided by Dream Smilez Super Specialty Dental Clinic.",
+  "main": "client-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightenweb/dream-smilez.git"
+  },
+  "keywords": [
+    "AngularJs",
+    "HTML",
+    "CSS"
+  ],
+  "author": "lightenweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightenweb/dream-smilez/issues"
+  },
+  "homepage": "https://github.com/lightenweb/dream-smilez#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
